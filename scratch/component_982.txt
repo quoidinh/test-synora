@@ -1,0 +1,3 @@
+<tool_call>
+{"name": "deploy_plugin", "arguments": {"plugin_name": "qwen_audio", "entrypoint": "stt.py", "args": "/workspace/1767490044609823462351998416273515 2.mp3"}}
+</tool_call>
