@@ -1,0 +1,3 @@
+<tool_call>
+{"name": "local_media", "arguments": {"action": "transcribe", "file_path": "/workspace/17674900446098234623519984162735152.mp3"}}
+</tool_call>
