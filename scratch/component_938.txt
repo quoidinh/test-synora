@@ -1,0 +1,3 @@
+<tool_call>
+{"name": "deploy_plugin", "arguments": {"plugin_name": "whisper", "entrypoint": "stt.py", "args": "/workspace/17674900446098234623519984162735152.mp3"}}
+</tool_call>
