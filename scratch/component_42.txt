@@ -1,0 +1,3 @@
+<tool_call>
+{"name": "deploy_plugin", "arguments": {"plugin_name": "qwen_audio", "entrypoint": "stt.py", "args": "<ten_file_cua_ban>"}}
+</tool_call>
